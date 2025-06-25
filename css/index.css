@@ -781,7 +781,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40%;
+  width: 60%;
   border-radius: 10px;
   background: #c70039;
   transition: all 0.4s ease;
@@ -795,7 +795,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: all 0.4s ease;
-  width: 34%;
+  width: 40%;
   border-radius: 10px;
   background: #c70039;
 }
@@ -807,7 +807,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 15%;
+  width: 35%;
   border-radius: 10px;
   transition: all 0.4s ease;
   background: #c70039;
